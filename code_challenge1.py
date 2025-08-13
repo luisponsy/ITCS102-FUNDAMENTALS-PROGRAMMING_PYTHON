@@ -1,0 +1,2 @@
+name = input("what is your name?")
+print("\t          * \n\t        *   *       \n\t      *       *  \n\t    *           *  \n\t  *      Hi \t  *\n\t*\t",name,"\t    *\n\t  *               *  \n\t    *           *\n\t      *       *\n\t        *   *\n\t          *")
