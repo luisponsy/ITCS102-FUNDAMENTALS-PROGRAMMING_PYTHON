@@ -1,6 +1,6 @@
 amount = int(input("Enter amount to deposit: "))
 
-print("\nHere is a breakdown using PH denomination:\n")
+print("Here is a breakdown using PH denomination:")
 
 print("PHP 1000:", amount // 1000)
 amount = amount % 1000
@@ -25,5 +25,6 @@ amount = amount % 10
 
 print("PHP 5:", amount // 5)
 amount = amount % 5
+
 
 print("PHP 1:", amount // 1)
