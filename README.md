@@ -30,3 +30,5 @@ Code Challenge 2 (https://github.com/luisponsy/ITCS102-FUNDAMENTALS-PROGRAMMING_
 Code Challenge 3 (https://github.com/luisponsy/ITCS102-FUNDAMENTALS-PROGRAMMING_PYTHON/blob/main/code_challenge3.py)
 
 Code Challenge 4 (https://github.com/luisponsy/ITCS102-FUNDAMENTALS-PROGRAMMING_PYTHON/blob/main/code_challenge4.py)
+
+Code Challenge 5 (https://github.com/luisponsy/ITCS102-FUNDAMENTALS-PROGRAMMING_PYTHON/blob/main/code_challenge5.py)
