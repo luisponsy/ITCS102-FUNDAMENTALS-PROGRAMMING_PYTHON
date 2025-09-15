@@ -1,0 +1,14 @@
+print("Odd Numbers Summation")
+
+odd_numbers = []
+sum_of_odds = 0
+
+
+for i in range(10):
+    num = int(input("Enter a Number: "))
+    if num % 2 != 0:
+        odd_numbers.append(num)
+        sum_of_odds += num
+
+print("Odd numbers:", odd_numbers)
+print("Sum of odd numbers:", sum_of_odds)
